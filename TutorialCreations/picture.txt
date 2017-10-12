@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>ComputerImage</title>
+	</head>
+	<body
+		<p>Happy Computer Image</p>
+		<img src="images/computer1.jpg" alt="image/computer1.jpeg" height="126" width="200">
+		<p>Amazon Computer Image</p>
+		<p>
+		<img src="images/amazon computer.jpg" alt="images/amazon computer.jpeg" height="162"" width="315">
+		</p>
+	</body>
+</html>

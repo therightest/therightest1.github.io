@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>AudioBkg</title>
+	</head>
+	<body
+		<audio autoplay>
+			<source src="sounds/bkg.mp3" type="audio/mpeg>
+			Audio element not supported by your browser.
+		</audio>
+	</body>
+</html>

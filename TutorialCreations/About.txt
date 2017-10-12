@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>CSS(part1)</title>
+  </head>
+  <body>
+	<p>Copyright Fritz Lehwalder 2017<br>fritlehw9586@granitesd.org</p>
+  </body>
+</html> 
